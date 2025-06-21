@@ -21,3 +21,5 @@ gitGraph
     merge develop
     commit
     commit
+
+Edición desde dev editor
