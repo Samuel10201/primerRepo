@@ -10,6 +10,8 @@ Una actualización desde Github
 
 Cambios desde mi rama local Samuel
 
+Edición desde dev editor
+
 ```mermaid
 gitGraph
     commit
@@ -22,4 +24,3 @@ gitGraph
     commit
     commit
 
-Edición desde dev editor
