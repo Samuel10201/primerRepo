@@ -9,3 +9,5 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+
+      #Hay un error pq en este repositorio no hay directorios que contengan la información de paquetes 
